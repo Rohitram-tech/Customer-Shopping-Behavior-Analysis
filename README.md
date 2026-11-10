@@ -60,8 +60,7 @@ The interactive dashboard includes:
 - Customer count by age group
 
 Interactive slicers allow users to explore the data by subscription status, gender, category and shipping type.
-
-<!-- Add your Power BI dashboard screenshot here after uploading it to the repository. -->
+![Power BI Customer Behavior Dashboard](powerbi_dashboard.png)
 
 ## SQL Concepts Demonstrated
 
